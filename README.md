@@ -4,6 +4,9 @@
 ## Overview
 This is a very plain and simple weight converter built with vanilla JS and Bootstrap 4. My goal was to make a simple and clean looking app that would perform the basic functionality.
 
+## Usage
+The app is live [here](http://aclydesdale.github.io/weight-converter)
+
 ## What I Learned
 * Some extra use of classes within Bootstrap 4.
 * Refreshed on some basic JS.
